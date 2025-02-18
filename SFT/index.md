@@ -8,7 +8,7 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Index
 
-- [Back](https://github.com/dvgodoy/LLM-visuals)
+- [Back](https://dvgodoy.github.io/LLM-visuals/)
 - [Training Loop](#training-loop)
 - [Attention](#attention)
 - [Memory](#memory)
