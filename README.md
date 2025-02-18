@@ -1,4 +1,4 @@
-# Deep Learning Visuals
+# LLM Visuals
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -18,7 +18,7 @@ You can easily navigate through the pages and indices, and click on the desired 
 - [Data Types](https://dvgodoy.github.io/llms-visuals/Data%20Types)
 - [LoRA](https://dvgodoy.github.io/llms-visuals/LoRA)
 - [Quantization](https://dvgodoy.github.io/llms-visuals/Quantization)
-- [SFT](https://dvgodoy.github.io/llms-visuals/SFT
+- [SFT](https://dvgodoy.github.io/llms-visuals/SFT)
 
 ## How Can I Use Them?
 
