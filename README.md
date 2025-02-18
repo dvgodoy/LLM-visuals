@@ -4,7 +4,7 @@ Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This repository was inspired by the [ML Visuals](https://github.com/dair-ai/ml-visuals) repository maintained by [dair.ai](https://dair.ai/).
 
-**Deep Learning Visuals** contains **62 unique images** divided in **5 categories**. All the images were originally published in my book ["A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face"](https://pytorchstepbystep.com/llms).
+**LLM Visuals** contains **62 unique images** divided in **5 categories**. All the images were originally published in my book ["A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face"](https://pytorchstepbystep.com/llms).
 
 ## Can I Freely Use These Images?
 
