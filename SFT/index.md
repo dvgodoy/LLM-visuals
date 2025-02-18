@@ -18,67 +18,67 @@ They are also available at the book's official repository: [https://github.com/d
 
 ## Training Loop
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/forward_pass.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/forward_pass.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/forward_pass.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/forward_pass.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/backward_pass.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/backward_pass.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/backward_pass.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/backward_pass.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/training_loop.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/training_loop.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/training_loop.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/training_loop.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.5.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.5.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.5.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.5.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.6.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.6.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.6.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.6.png)
 
 ## Attention
 
 ### Without LoRA
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-no_lora.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-no_lora.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-no_lora.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-no_lora.png)
 
 ### Quantized Optimizer
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-8bit_adam.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-8bit_adam.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-8bit_adam.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-8bit_adam.png)
 
 ### LoRA
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora.png)
 
 ### Activations
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora_s.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora_s.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora_s.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora_s.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora_short_s.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/gpu_ram-lora_short_s.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora_short_s.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/gpu_ram-lora_short_s.png)
 
 ### Formulas
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.10.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.10.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.10.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.10.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.11.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.11.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.11.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.11.png)
 
 ## Memory
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eager_attn.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eager_attn.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eager_attn.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eager_attn.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.1.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.1.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.1.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.1.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.2.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.2.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.2.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.2.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.3.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.3.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.3.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.3.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.4.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.4.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.4.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.4.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.7.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.7.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.7.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.7.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.8.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.8.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.8.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.8.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.9a.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.9a.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.9a.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.9a.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.9b.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/eq05.9b.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.9b.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/eq05.9b.png)
 
 ## Stochastic Rounding
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/stochastic_10k.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/stochastic_10k.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/stochastic_10k.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/stochastic_10k.png)
 
-[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/stochastic_100k.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/Quantization/stochastic_100k.png)
+[![](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/stochastic_100k.png)](https://raw.githubusercontent.com/dvgodoy/LLM-visuals/main/SFT/stochastic_100k.png)
 
 
 This work is licensed under a
