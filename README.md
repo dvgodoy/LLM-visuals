@@ -6,6 +6,8 @@ This repository was inspired by the [ML Visuals](https://github.com/dair-ai/ml-v
 
 **LLM Visuals** contains **62 unique images** divided in **5 categories**. All the images were originally published in my book ["A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face"](https://pytorchstepbystep.com/llms).
 
+Looking for images and diagrams for Transformers? Check out [DL Visuals](https://github.com/dvgodoy/dl-visuals)
+
 ## Can I Freely Use These Images?
 
 Sure, these images can be FREELY USED in your own blog posts, slides, presentations, or papers under the CC-BY license.
