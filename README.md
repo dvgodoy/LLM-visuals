@@ -14,11 +14,11 @@ Sure, these images can be FREELY USED in your own blog posts, slides, presentati
 
 You can easily navigate through the pages and indices, and click on the desired image to visualize it in full size:
 
-- [Chat Templates](https://dvgodoy.github.io/llms-visuals/Chat%20Templates)
-- [Data Types](https://dvgodoy.github.io/llms-visuals/Data%20Types)
-- [LoRA](https://dvgodoy.github.io/llms-visuals/LoRA)
-- [Quantization](https://dvgodoy.github.io/llms-visuals/Quantization)
-- [SFT](https://dvgodoy.github.io/llms-visuals/SFT)
+- [Chat Templates](https://dvgodoy.github.io/LLM-visuals/Chat%20Templates)
+- [Data Types](https://dvgodoy.github.io/LLM-visuals/Data%20Types)
+- [LoRA](https://dvgodoy.github.io/LLM-visuals/LoRA)
+- [Quantization](https://dvgodoy.github.io/LLM-visuals/Quantization)
+- [SFT](https://dvgodoy.github.io/LLM-visuals/SFT)
 
 ## How Can I Use Them?
 
